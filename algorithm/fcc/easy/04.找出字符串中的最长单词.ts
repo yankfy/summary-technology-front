@@ -1,4 +1,4 @@
-let longWord = "The quick brown fox jumped over the lazy dog";
+let longWord:string = "The quick brown fox jumped over the lazy dog";
 
 function findLongestWord(str) { 
     let len = 0;
