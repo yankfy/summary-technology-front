@@ -27,5 +27,5 @@ function smallestCommons(arr) {
 
 }
 
-
+ 
 console.log(smallestCommons([1,5]));
